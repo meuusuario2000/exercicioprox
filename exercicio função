@@ -1,0 +1,6 @@
+def escrever_soma(num1, num2):
+  resultado= str(num1 + num2)
+  frase=str(num1) + "x" +str(num2) + "=" + resultado
+  return frase
+
+  print(escrever_soma(2,10)
